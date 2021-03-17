@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.debug{
+  height: 100px;
+  background-color: rgb(235, 178, 178);
+  line-height: 100px;
+}
+
+nav .row{
+  height: 40px;
+  background-color: blue;
+}
+
+ #vioport1{
+  height: 350px;
+  background-color: aquamarine;
+}
+
+
+#vioport2{
+  height: 423px;
+  /* background-color: #FFFFFF; */
+  background-color: brown;
+}
+
+
+#vioport3{
+  height: 438px;
+  background-color: aquamarine;
+}

@@ -6,7 +6,7 @@
 
 .debug{
   min-height: 60px;
-  background-color: rgb(245, 245, 187);
+  /* background-color: rgb(245, 245, 187); */
   border: 2px solid rgb(230, 36, 36);
   height: 100%;
 
@@ -48,8 +48,8 @@
 }
 
 
-#vioport3{
-  height: 450px;
+#abaut{
+  height: 100%;
   background-color: #10715E;
 }
 

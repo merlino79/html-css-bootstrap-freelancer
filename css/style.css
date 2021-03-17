@@ -6,8 +6,9 @@
 
 .debug{
   min-height: 60px;
-  background-color: rgb(235, 178, 178);
+  background-color: rgb(245, 245, 187);
   border: 2px solid rgb(230, 36, 36);
+  height: 100%;
 
 }
 
@@ -24,10 +25,24 @@
 }
 
 
-#vioport2{
+#portfolio{
   height: 423px;
   /* background-color: #FFFFFF; */
-  background-color: brown;
+  background-color: rgb(245, 230, 230);
+}
+
+.txt-up{
+  height: 85px;
+  border-bottom: 2px solid black;
+  
+}
+
+.row .img{
+  height: 100px;
+  width: 175px;
+  background-color: red;
+  margin-top: 20px;
+  border-radius: 7px;
 }
 
 

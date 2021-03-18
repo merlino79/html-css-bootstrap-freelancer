@@ -33,7 +33,7 @@
 
 .txt-up{
   height: 85px;
-  border-bottom: 2px solid black;
+  /* border-bottom: 2px solid black; */
   margin-bottom: 10px;
   
 }
@@ -53,11 +53,30 @@
   background-color: #10715E;
 }
 
+.ac-container{
+  width: 60%;
+  margin: 0 auto;
+  height: 100%;
 
-#vioport4{
-  height: 340px;
-  background-color: rgb(241, 152, 19);
 }
+
+button{
+  margin-top:10px ;
+  margin-bottom: 10px;
+}
+.bt{
+  width: 100px;
+  background-color: #1ABC9C;
+  
+}
+
+
+#contact{
+  height: 340px;
+  background-color: rgb(240, 235, 229);
+}
+
+
 
 
 

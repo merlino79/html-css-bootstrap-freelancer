@@ -127,6 +127,7 @@ input{
 .footer-bottom{
   height: 55px;
   background-color: #2C3E50;
+  line-height: 55px;
 
 }
 
@@ -136,4 +137,8 @@ input{
 
 .box-down{
   margin-top: 30px;
+}
+
+.footer-bottom span::after{
+  content: ' \1F919';
 }

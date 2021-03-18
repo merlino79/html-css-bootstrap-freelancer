@@ -16,10 +16,13 @@
 #nav{
   height: 60px;
   background-color: #1A2530;
+  line-height: 60px;
 }
 
-.text-center.container{
+.text-center, .container a{
   color: #bdd2e4;
+  text-transform: uppercase;
+
 
 }
 
@@ -86,12 +89,6 @@ button{
   color: white;
   
 }
-.text-center.bt{
-  color: #1a4dbc;
-  
-
-  
-}
 
 
 
@@ -120,7 +117,7 @@ input{
 }
 
 .footer-down{
-  height: 50px;
+  height: 80px;
   background-color: #2C3E50;
 
 }

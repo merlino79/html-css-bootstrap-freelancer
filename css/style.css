@@ -112,17 +112,20 @@ input{
   height: 200px;
 }
 
-
+#footer{
+  height: 100%;
+  background-color: #3A546D;
+}
 
 
 .footer-up{
-  height: 115px;
+  height: 105px;
   background-color: #3A546D;
 
 }
 
-.footer-down{
-  height: 80px;
+.footer-bottom{
+  height: 55px;
   background-color: #2C3E50;
 
 }

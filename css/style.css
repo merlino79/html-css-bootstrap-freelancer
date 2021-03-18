@@ -124,6 +124,11 @@ input{
 
 }
 
+mark{
+  color: lightcoral;
+  background-color: lightgreen;
+}
+
 .footer-bottom{
   height: 55px;
   background-color: #2C3E50;

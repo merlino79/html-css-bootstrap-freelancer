@@ -127,6 +127,8 @@ input{
 mark{
   color: lightcoral;
   background-color: lightgreen;
+  border-radius: 7px;
+  box-shadow: 2px 2px rgb(177, 143, 240);
 }
 
 .footer-bottom{

@@ -19,18 +19,18 @@
   line-height: 60px;
 }
 
-.text-center, .container a{
-  color: #bdd2e4;
-  text-transform: uppercase;
 
-
-}
 
 .avatar img{
   max-width: 100px;
+  margin-bottom: 5px;
+  margin-top: 20px;
 }
 
-
+.bg-white,h4 {
+  margin-bottom: 20px;
+  color: whitesmoke;
+}
 
 
 
@@ -39,7 +39,7 @@
 
 
 #jambatron{
-  height: 286px;
+  height: 1200%;
   background-color: #1ABC9C;
 }
 
@@ -50,7 +50,7 @@
   /* background-color: rgb(245, 230, 230); */
 }
 
-.txt-up{
+.txt-up {
   height: 85px;
   /* border-bottom: 2px solid black; */
   margin-bottom: 10px;
@@ -63,7 +63,7 @@
   background-color: red;
   margin-top: 20px;
   border-radius: 7px;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
 }
 
 

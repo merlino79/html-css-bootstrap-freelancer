@@ -68,6 +68,7 @@
   width: 60%;
   margin: 0 auto;
   height: 100%;
+  position: relative;
 
 }
 
@@ -85,12 +86,14 @@ button{
   color: white;
   
 }
+.text-center.bt{
+  color: #1a4dbc;
+  
 
-
-
-.bt.text-center{
-  text-align: center;
+  
 }
+
+
 
 
 #contact{

@@ -119,7 +119,7 @@ input{
 
 
 .footer-up{
-  height: 105px;
+  height: 100%;
   background-color: #3A546D;
 
 }
@@ -130,7 +130,7 @@ mark{
 }
 
 .footer-bottom{
-  height: 55px;
+  height: 100%;
   background-color: #2C3E50;
   line-height: 55px;
 

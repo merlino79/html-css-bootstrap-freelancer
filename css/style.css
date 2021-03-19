@@ -14,14 +14,22 @@
 
 
 .header-top{
-  height: 60px;
+  height: 80px;
   background-color: #1A2530;
-  line-height: 60px;
-
- 
-
+  line-height: 80px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 999;
 
 }
+
+ .header-bottom{
+   margin-top: 20px;
+   min-height: 80px;
+ }
+
+
 
 
 
